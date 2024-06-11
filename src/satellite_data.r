@@ -1,6 +1,3 @@
-# Installing required package from GitHub
-# remotes::install_github("wmgeolab/rgeoboundaries")
-
 # Loading libraries
 # For accessing geoboundaries data
 library(rgeoboundaries)
